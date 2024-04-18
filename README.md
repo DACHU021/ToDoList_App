@@ -1,5 +1,4 @@
-# ToDoList_App
-Create tasks with ease using this minimalist to-do list app. Organize, prioritize, and track your progress effortlessly. Stay productive!
+
 **To-Do List App**
 
 This is a simple To-Do List web application built with HTML, CSS, and JavaScript.
@@ -9,7 +8,8 @@ This is a simple To-Do List web application built with HTML, CSS, and JavaScript
 
 **Screenshots:**
 
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](![TodoList Image](https://github.com/DACHU021/ToDoList_App/assets/137294508/5cdd636b-5895-413f-8d4d-7fe82d5cab2c)
+)
 
 **Usage:**
 1. Clone this repository.
@@ -17,6 +17,3 @@ This is a simple To-Do List web application built with HTML, CSS, and JavaScript
 
 **Contributing:**
 Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
-
-**License:**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
