@@ -8,8 +8,9 @@ This is a simple To-Do List web application built with HTML, CSS, and JavaScript
 
 **Screenshots:**
 
-![Screenshot 2](![TodoList Image](https://github.com/DACHU021/ToDoList_App/assets/137294508/5cdd636b-5895-413f-8d4d-7fe82d5cab2c)
-)
+![Screenshot](![TodoList Image](https://github.com/DACHU021/ToDoList_App/assets/137294508/fbb3afb9-f538-4bf2-8c31-5d496b5e6dab)
+
+
 
 **Usage:**
 1. Clone this repository.
